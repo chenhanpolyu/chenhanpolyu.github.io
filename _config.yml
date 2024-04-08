@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Xi'an, China"
-title                    : "Ph.D."
+title                    : "Han Chen 陈汉"
 title_separator          : "-"
 name                     : &name "Han Chen's personal homepage"
 description              : &description "personal description"
@@ -22,8 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "me.png"
-  name             : "Han Chen"
-  pronouns         : "Dr."
+  name             : "Dr. Han Chen"
+  pronouns         : 
   bio              : "I like Tony Stark"
   location         : "Xi'an, China"
   employer         : "HUAWEI"
