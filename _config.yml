@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/me.png"
+  avatar           : "./images/me.png"
   name             : "Dr. Han Chen"
   pronouns         : 
   bio              : "I like Tony Stark"
