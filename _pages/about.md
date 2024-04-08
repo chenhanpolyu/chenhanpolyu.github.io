@@ -13,4 +13,4 @@ Before I joined Huawei, I obtained my Ph.D. from the Hong Kong Polytechnic Unive
 
 I am very fortunate to be advised by those experienced and talented scholars mentioned. Thanks to their critical guidance and enthusiastic assistance, I found and engaged in the research and working career that I am passionate about.
 
-You can find my CV here: [Han Chen's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Han Chen's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). The demo videos for part of the finished works about UAV autonomous navigation can be found [here](https://mp.weixin.qq.com/s/txn98dEMXWHpongZEVjUBw).
