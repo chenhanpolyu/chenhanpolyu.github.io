@@ -12,7 +12,7 @@ title                    : "Han Chen 陈汉"
 title_separator          : "-"
 name                     : &name "Han Chen's personal homepage"
 description              : &description "personal description"
-url                      : https://chenhanpolyu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chenhanpolyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,13 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/me.png"
+  avatar           : "me.png"
   name             : "Dr. Han Chen"
   pronouns         : 
   bio              : "I like Tony Stark"
   location         : "Xi'an, China"
   employer         : "HUAWEI"
-  uri              : "https://chenhanpolyu.github.io/"# URL
+  uri              : https://chenhanpolyu.github.io # URL
   email            : "chenhan52@huawei.com" 
 
   # Academic websites
