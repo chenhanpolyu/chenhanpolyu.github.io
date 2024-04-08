@@ -1,5 +1,5 @@
 ---
-title: "Flying in Dynamic Scenes with Multitarget Velocimetry and Perception Enhanced Planning"
+title: "Flying in Dynamic Scenes with Multitarget Velocimetry and Perception-Enhanced Planning"
 collection: SCI
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
